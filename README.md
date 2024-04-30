@@ -1,5 +1,3 @@
-# Repository Name
-
 This repository contains code related to the paper: `Assistive sensory-motor perturbations influence learned neural representations`. 
 
 ## Structure
