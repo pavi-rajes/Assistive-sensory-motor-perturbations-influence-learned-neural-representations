@@ -1,0 +1,22 @@
+# folders
+model/results/
+model/data/
+
+# simulation executable, but not the .cpp files
+model/sim/*.txt
+model/sim/sim_*
+!model/sim/sim_*.cpp
+
+# object files in sim folder
+sim/*.o
+
+
+analysis/.idea/
+
+*.xml
+*.ipynb
+*.pyc
+
+
+# DS_Store
+.DS_Store
